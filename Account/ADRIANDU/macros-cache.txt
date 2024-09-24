@@ -1,0 +1,46 @@
+VER 3 000000000000005F "ChaosTrinket" "1305152"
+/cast Elementium Pocket Anvil
+/cast Chaos Strike
+/cast Annihilation
+END
+VER 3 0000000000000064 "Follow" "132171"
+/follow
+END
+VER 3 0000000000000063 "Heal Innervate" "136048"
+/targetexact Klunkerkalle
+/cast Innervate
+/targetlasttarget
+END
+VER 3 000000000000005C "InitDH" "135802"
+/use Fleeting Elemental Potion of Ultimate Power
+/use Witherbark's Branch
+/use Inky Black Potion
+END
+VER 3 0000000000000055 "INNERVATE" "3636839"
+/target Drbashir
+/cast Innervate
+/targetlasttarget
+END
+VER 3 0000000000000054 "Kick" "236946"
+#showtooltip
+/cast [@focus,harm,nodead] [] Skull Bash
+END
+VER 3 000000000000005E "pull 10" "134400"
+/pull 10
+END
+VER 3 0000000000000001 "Readycheck" "INV_SWORD_04"
+/Readycheck
+END
+VER 3 0000000000000062 "Sooraption" "135952"
+/cast [harm] Soothe; [help][@player] Remove Corruption
+END
+VER 3 0000000000000060 "test" "132122"
+/targetenemy
+/cast Rake
+END
+VER 3 0000000000000061 "test2" "134914"
+/cast [@mouseover,harm,nodead][harm,nodead] Rake
+END
+VER 3 000000000000005D "wa" "607854"
+/run WeakAuras.ScanEvents("NS_PA_MACRO", true)
+END

@@ -1,0 +1,2742 @@
+
+DetailsDataStorage = {
+["normal"] = {
+[2917] = {
+{
+["time"] = 1726326318,
+["guild"] = "Inithium",
+["elapsed"] = 262.3669999999997,
+["date"] = "17:05 14/09/24",
+["servertime"] = 1726326316,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 168595925,
+["itemLevel"] = 570.9375,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 214434642,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 166844621,
+["itemLevel"] = 600.6875,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 80033692,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 150619347,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 96944313,
+["itemLevel"] = 595.6875,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 70290617,
+["itemLevel"] = 570.6875,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 125908451,
+["itemLevel"] = 583,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 68978961,
+["itemLevel"] = 593.6875,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 97453563,
+["itemLevel"] = 591.4375,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 115811406,
+["itemLevel"] = 591.1875,
+["classId"] = 11,
+},
+},
+},
+},
+[2918] = {
+{
+["time"] = 1726327562,
+["guild"] = "Inithium",
+["elapsed"] = 211.3519999999999,
+["date"] = "17:26 14/09/24",
+["servertime"] = 1726327560,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 111166591,
+["itemLevel"] = 572,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 123764632,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 138734980,
+["itemLevel"] = 600.6875,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 83755156,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 152979363,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 84339836,
+["itemLevel"] = 595.9375,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 87546692,
+["itemLevel"] = 575.1875,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 121104377,
+["itemLevel"] = 583.875,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 60921455,
+["itemLevel"] = 593.6875,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 100859533,
+["itemLevel"] = 591.4375,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 103876050,
+["itemLevel"] = 591.1875,
+["classId"] = 11,
+},
+},
+},
+},
+[2898] = {
+{
+["time"] = 1726327030,
+["guild"] = "Inithium",
+["elapsed"] = 226.7070000000003,
+["date"] = "17:17 14/09/24",
+["servertime"] = 1726327028,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 124885048,
+["itemLevel"] = 570.9375,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 171353433,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 139974589,
+["itemLevel"] = 600.6875,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 68008477,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 132565808,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 80662390,
+["itemLevel"] = 595.9375,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 88056131,
+["itemLevel"] = 573.375,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 120413517,
+["itemLevel"] = 583.875,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 46607105,
+["itemLevel"] = 593.6875,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 115036027,
+["itemLevel"] = 591.4375,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 95834440,
+["itemLevel"] = 591.1875,
+["classId"] = 11,
+},
+},
+},
+},
+[2920] = {
+{
+["time"] = 1726329887,
+["guild"] = "Inithium",
+["elapsed"] = 264.3599999999997,
+["date"] = "18:04 14/09/24",
+["servertime"] = 1726329885,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 161629964,
+["itemLevel"] = 574,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 177724753,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 159549650,
+["itemLevel"] = 600.3125,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 80248677,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 162894136,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 89803989,
+["itemLevel"] = 595.9375,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 76818325,
+["itemLevel"] = 575.1875,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 145925580,
+["itemLevel"] = 583,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 46503844,
+["itemLevel"] = 594.9375,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 112828622,
+["itemLevel"] = 591.4375,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 116522220,
+["itemLevel"] = 593.4375,
+["classId"] = 11,
+},
+},
+},
+},
+[2921] = {
+{
+["date"] = "21:38 11/09/24",
+["guild"] = "Inithium",
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 211490173,
+["itemLevel"] = 592.9375,
+["classId"] = 3,
+},
+["Baukimage"] = {
+["total"] = 229601507,
+["itemLevel"] = 589.6875,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 97100366,
+["itemLevel"] = 592.5,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 289466651,
+["itemLevel"] = 594.5,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 251472399,
+["itemLevel"] = 597.625,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 362259697,
+["itemLevel"] = 597.0625,
+["classId"] = 8,
+},
+["Kazôu"] = {
+["total"] = 176131594,
+["itemLevel"] = 589.5,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 187376637,
+["itemLevel"] = 0,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 331348976,
+["itemLevel"] = 595.125,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 114847370,
+["itemLevel"] = 592,
+["classId"] = 5,
+},
+["Zz"] = {
+["total"] = 86646330,
+["itemLevel"] = 593,
+["classId"] = 13,
+},
+["Eléssár"] = {
+["total"] = 225813008,
+["itemLevel"] = 587.9375,
+["classId"] = 6,
+},
+["Makína"] = {
+["total"] = 178083287,
+["itemLevel"] = 587.3125,
+["classId"] = 12,
+},
+["Freddsen"] = {
+["total"] = 212653267,
+["itemLevel"] = 587.6875,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 81563214,
+["itemLevel"] = 593.1875,
+["classId"] = 10,
+},
+["Bimbøw"] = {
+["total"] = 263971584,
+["itemLevel"] = 597,
+["classId"] = 3,
+},
+["Gindry"] = {
+["total"] = 248603411,
+["itemLevel"] = 593.8125,
+["classId"] = 2,
+},
+["Faîrfang"] = {
+["total"] = 135572148,
+["itemLevel"] = 593.5,
+["classId"] = 6,
+},
+["Jeerad"] = {
+["total"] = 265400572,
+["itemLevel"] = 595,
+["classId"] = 8,
+},
+["Yunádh-Thrall"] = {
+["total"] = 221368596,
+["itemLevel"] = 593.875,
+["classId"] = 12,
+},
+["Wâffûls"] = {
+["total"] = 248830168,
+["itemLevel"] = 593.75,
+["classId"] = 4,
+},
+["Falconkîng"] = {
+["total"] = 324137974,
+["itemLevel"] = 595.1875,
+["classId"] = 3,
+},
+["Raxezz"] = {
+["total"] = 271433454,
+["itemLevel"] = 593.25,
+["classId"] = 1,
+},
+},
+["elapsed"] = 287.4429999999993,
+["servertime"] = 1726083513,
+["HEALER"] = {
+["Sgtfeeder"] = {
+["total"] = 154268462,
+["itemLevel"] = 578.3125,
+["classId"] = 7,
+},
+["Khono"] = {
+["total"] = 213925560,
+["itemLevel"] = 589.4375,
+["classId"] = 5,
+},
+["Alydris"] = {
+["total"] = 266412887,
+["itemLevel"] = 594.125,
+["classId"] = 7,
+},
+["Alarïa"] = {
+["total"] = 196494897,
+["itemLevel"] = 595.1875,
+["classId"] = 11,
+},
+},
+["time"] = 1726083514,
+},
+{
+["time"] = 1726331716,
+["guild"] = "Inithium",
+["elapsed"] = 456.2030000000013,
+["date"] = "18:35 14/09/24",
+["servertime"] = 1726331714,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 258667905,
+["itemLevel"] = 574,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 314330103,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 323125948,
+["itemLevel"] = 600.3125,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 205280053,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 338531057,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 80843357,
+["itemLevel"] = 595.9375,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 72853101,
+["itemLevel"] = 577.1875,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 312157894,
+["itemLevel"] = 583.875,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 131048524,
+["itemLevel"] = 594.9375,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 332016167,
+["itemLevel"] = 592.0625,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 297534283,
+["itemLevel"] = 594.0625,
+["classId"] = 11,
+},
+},
+},
+},
+[2922] = {
+{
+["date"] = "22:07 11/09/24",
+["guild"] = "Inithium",
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 155881099,
+["itemLevel"] = 592.9375,
+["classId"] = 3,
+},
+["Baukimage"] = {
+["total"] = 190723095,
+["itemLevel"] = 589.6875,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 40923707,
+["itemLevel"] = 592.5,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 198348864,
+["itemLevel"] = 594.5,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 206936267,
+["itemLevel"] = 597.625,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 251376035,
+["itemLevel"] = 597.0625,
+["classId"] = 8,
+},
+["Kazôu"] = {
+["total"] = 90224167,
+["itemLevel"] = 589.5,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 95300477,
+["itemLevel"] = 588.0666666666667,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 245118337,
+["itemLevel"] = 594.5,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 156013339,
+["itemLevel"] = 592,
+["classId"] = 5,
+},
+["Zz"] = {
+["total"] = 72567634,
+["itemLevel"] = 593,
+["classId"] = 13,
+},
+["Eléssár"] = {
+["total"] = 200505179,
+["itemLevel"] = 587.9375,
+["classId"] = 6,
+},
+["Makína"] = {
+["total"] = 141916086,
+["itemLevel"] = 587.3125,
+["classId"] = 12,
+},
+["Freddsen"] = {
+["total"] = 172514991,
+["itemLevel"] = 587.6875,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 64071758,
+["itemLevel"] = 593.1875,
+["classId"] = 10,
+},
+["Bimbøw"] = {
+["total"] = 193436916,
+["itemLevel"] = 597,
+["classId"] = 3,
+},
+["Gindry"] = {
+["total"] = 138726075,
+["itemLevel"] = 593.8125,
+["classId"] = 2,
+},
+["Faîrfang"] = {
+["total"] = 123780034,
+["itemLevel"] = 593.5,
+["classId"] = 6,
+},
+["Jeerad"] = {
+["total"] = 216173005,
+["itemLevel"] = 595,
+["classId"] = 8,
+},
+["Yunádh-Thrall"] = {
+["total"] = 166259141,
+["itemLevel"] = 593.875,
+["classId"] = 12,
+},
+["Wâffûls"] = {
+["total"] = 94985308,
+["itemLevel"] = 593.75,
+["classId"] = 4,
+},
+["Falconkîng"] = {
+["total"] = 185538872,
+["itemLevel"] = 595.1875,
+["classId"] = 3,
+},
+["Raxezz"] = {
+["total"] = 224425443,
+["itemLevel"] = 593.25,
+["classId"] = 1,
+},
+},
+["elapsed"] = 324.9569999999949,
+["servertime"] = 1726085278,
+["HEALER"] = {
+["Sgtfeeder"] = {
+["total"] = 140860858,
+["itemLevel"] = 581.375,
+["classId"] = 7,
+},
+["Khono"] = {
+["total"] = 214525638,
+["itemLevel"] = 589.4375,
+["classId"] = 5,
+},
+["Alydris"] = {
+["total"] = 181866057,
+["itemLevel"] = 594.125,
+["classId"] = 7,
+},
+["Alarïa"] = {
+["total"] = 194969868,
+["itemLevel"] = 595.1875,
+["classId"] = 11,
+},
+},
+["time"] = 1726085279,
+},
+{
+["time"] = 1726334049,
+["guild"] = "Inithium",
+["elapsed"] = 397.1389999999992,
+["date"] = "19:14 14/09/24",
+["servertime"] = 1726334047,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 207490738,
+["itemLevel"] = 574,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 234160408,
+["itemLevel"] = 601.625,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 200130683,
+["itemLevel"] = 600.3125,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 126240040,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Manasturm"] = {
+["total"] = 160046572,
+["itemLevel"] = 596.75,
+["classId"] = 9,
+},
+["Loðbrók"] = {
+["total"] = 221200028,
+["itemLevel"] = 601.5625,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 204775357,
+["itemLevel"] = 595.9375,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 115262496,
+["itemLevel"] = 577.1875,
+["classId"] = 4,
+},
+["Esdêàth"] = {
+["total"] = 107097530,
+["itemLevel"] = 594.9375,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 158905931,
+["itemLevel"] = 592.0625,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 162036447,
+["itemLevel"] = 594.0625,
+["classId"] = 11,
+},
+},
+},
+},
+[2902] = {
+{
+["time"] = 1726325639,
+["guild"] = "Inithium",
+["elapsed"] = 269.8530000000001,
+["date"] = "16:53 14/09/24",
+["servertime"] = 1726325637,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 137981719,
+["itemLevel"] = 570.9375,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 108438123,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 153576190,
+["itemLevel"] = 600.6875,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 80699603,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 135535869,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 77707816,
+["itemLevel"] = 595.6875,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 76548434,
+["itemLevel"] = 570.6875,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 127352680,
+["itemLevel"] = 583.375,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 65905172,
+["itemLevel"] = 593.6875,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 89058380,
+["itemLevel"] = 591.4375,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 88909588,
+["itemLevel"] = 591.1875,
+["classId"] = 11,
+},
+},
+},
+},
+[2919] = {
+{
+["time"] = 1726329304,
+["guild"] = "Inithium",
+["elapsed"] = 285.1410000000005,
+["date"] = "17:55 14/09/24",
+["servertime"] = 1726329302,
+["HEALER"] = {
+["Thyradis"] = {
+["total"] = 182040517,
+["itemLevel"] = 572,
+["classId"] = 5,
+},
+["Klunkerkalle"] = {
+["total"] = 209100984,
+["itemLevel"] = 601.25,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 200197207,
+["itemLevel"] = 600.3125,
+["classId"] = 7,
+},
+["Basaranîi"] = {
+["total"] = 104671326,
+["itemLevel"] = 604.625,
+["classId"] = 6,
+},
+["Loðbrók"] = {
+["total"] = 233680682,
+["itemLevel"] = 599.9375,
+["classId"] = 1,
+},
+["Klunkerkeli"] = {
+["total"] = 113440514,
+["itemLevel"] = 595.9375,
+["classId"] = 4,
+},
+["Azuyaa"] = {
+["total"] = 145857338,
+["itemLevel"] = 575.1875,
+["classId"] = 4,
+},
+["Solenea"] = {
+["total"] = 160032061,
+["itemLevel"] = 583.875,
+["classId"] = 2,
+},
+["Esdêàth"] = {
+["total"] = 84393320,
+["itemLevel"] = 593.6875,
+["classId"] = 6,
+},
+["Muhlsen"] = {
+["total"] = 152996077,
+["itemLevel"] = 591.4375,
+["classId"] = 6,
+},
+["Freddzen"] = {
+["total"] = 142207539,
+["itemLevel"] = 593.4375,
+["classId"] = 11,
+},
+},
+},
+},
+},
+["mythic_plus"] = {
+},
+["Data"] = {
+},
+["VERSION"] = 7,
+["heroic"] = {
+[2917] = {
+{
+["guild"] = "Inithium",
+["time"] = 1726164844,
+["elapsed"] = 291.7830000000031,
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 193133788,
+["itemLevel"] = 596.1875,
+["classId"] = 3,
+},
+["Brranduin"] = {
+["total"] = 143216237,
+["itemLevel"] = 592.0625,
+["classId"] = 5,
+},
+["Jeerad"] = {
+["total"] = 167748648,
+["itemLevel"] = 600.4375,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 55111229,
+["itemLevel"] = 597.375,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 203061526,
+["itemLevel"] = 600.375,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 218758511,
+["itemLevel"] = 601,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 267566256,
+["itemLevel"] = 598.875,
+["classId"] = 8,
+},
+["Kazôu"] = {
+["total"] = 171972638,
+["itemLevel"] = 592.1875,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 134091497,
+["itemLevel"] = 591.6,
+["classId"] = 2,
+},
+["Makína"] = {
+["total"] = 164039952,
+["itemLevel"] = 589.5,
+["classId"] = 12,
+},
+["Ábigail"] = {
+["total"] = 148686187,
+["itemLevel"] = 597.375,
+["classId"] = 5,
+},
+["Zz"] = {
+["total"] = 78198146,
+["itemLevel"] = 602.8125,
+["classId"] = 13,
+},
+["Eléssár"] = {
+["total"] = 218237732,
+["itemLevel"] = 596.625,
+["classId"] = 6,
+},
+["Manasturm"] = {
+["total"] = 164582123,
+["itemLevel"] = 591.25,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 172122027,
+["itemLevel"] = 595.375,
+["classId"] = 12,
+},
+["Bimbøw"] = {
+["total"] = 228567259,
+["itemLevel"] = 599.5625,
+["classId"] = 3,
+},
+["Wâffûls"] = {
+["total"] = 219503313,
+["itemLevel"] = 598.1875,
+["classId"] = 4,
+},
+["Raxezz"] = {
+["total"] = 253861998,
+["itemLevel"] = 597.25,
+["classId"] = 1,
+},
+["Baukimage"] = {
+["total"] = 164881897,
+["itemLevel"] = 591.125,
+["classId"] = 8,
+},
+["Gindry"] = {
+["total"] = 172522712,
+["itemLevel"] = 596.75,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 203139073,
+["itemLevel"] = 591.75,
+["classId"] = 7,
+},
+["Faîrfang"] = {
+["total"] = 119348730,
+["itemLevel"] = 604.9375,
+["classId"] = 6,
+},
+["Yunádh-Thrall"] = {
+["total"] = 222962649,
+["itemLevel"] = 599.25,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 65633767,
+["itemLevel"] = 596.75,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 242561607,
+["itemLevel"] = 599.875,
+["classId"] = 3,
+},
+["Krassarani"] = {
+["total"] = 258459703,
+["itemLevel"] = 600.625,
+["classId"] = 3,
+},
+},
+["servertime"] = 1726164840,
+["HEALER"] = {
+["Alydris"] = {
+["total"] = 244203513,
+["itemLevel"] = 594.6875,
+["classId"] = 7,
+},
+["Khono"] = {
+["total"] = 136185988,
+["itemLevel"] = 590.5,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 251421441,
+["itemLevel"] = 600.0625,
+["classId"] = 11,
+},
+["Cesalia"] = {
+["total"] = 220796577,
+["itemLevel"] = 593.5625,
+["classId"] = 2,
+},
+},
+["date"] = "20:14 12/09/24",
+},
+{
+["time"] = 1726682000,
+["guild"] = "Inithium",
+["elapsed"] = 261.5869999999995,
+["date"] = "19:53 18/09/24",
+["servertime"] = 1726682000,
+["HEALER"] = {
+["Brranduin"] = {
+["total"] = 202044033,
+["itemLevel"] = 607.8125,
+["classId"] = 5,
+},
+["Khono"] = {
+["total"] = 198597812,
+["itemLevel"] = 604.6875,
+["classId"] = 5,
+},
+["Alydris"] = {
+["total"] = 198105733,
+["itemLevel"] = 605.125,
+["classId"] = 7,
+},
+["Alarïa"] = {
+["total"] = 174467938,
+["itemLevel"] = 607.25,
+["classId"] = 11,
+},
+},
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 200887936,
+["itemLevel"] = 609.25,
+["classId"] = 3,
+},
+["Jeerad"] = {
+["total"] = 134835355,
+["itemLevel"] = 609.4375,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 68705067,
+["itemLevel"] = 607.625,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 201590611,
+["itemLevel"] = 607.6875,
+["classId"] = 6,
+},
+["Kehnaria"] = {
+["total"] = 175953064,
+["itemLevel"] = 605.3125,
+["classId"] = 8,
+},
+["Bimbøw"] = {
+["total"] = 172890522,
+["itemLevel"] = 608.4375,
+["classId"] = 3,
+},
+["Mornin"] = {
+["total"] = 125408224,
+["itemLevel"] = 604.875,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 252964062,
+["itemLevel"] = 607,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 160962254,
+["itemLevel"] = 607.3125,
+["classId"] = 5,
+},
+["Eléssár"] = {
+["total"] = 221438937,
+["itemLevel"] = 608.0625,
+["classId"] = 6,
+},
+["Baukî"] = {
+["total"] = 209970032,
+["itemLevel"] = 607,
+["classId"] = 11,
+},
+["Karthman"] = {
+["total"] = 180291488,
+["itemLevel"] = 605.1875,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 190574451,
+["itemLevel"] = 605.0625,
+["classId"] = 12,
+},
+["Raxezz"] = {
+["total"] = 244815352,
+["itemLevel"] = 606.5625,
+["classId"] = 1,
+},
+["Wâffûls"] = {
+["total"] = 212400403,
+["itemLevel"] = 605.0625,
+["classId"] = 4,
+},
+["Faîrfang"] = {
+["total"] = 119177025,
+["itemLevel"] = 608.3125,
+["classId"] = 6,
+},
+["Gindry"] = {
+["total"] = 180069378,
+["itemLevel"] = 609,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 228898169,
+["itemLevel"] = 610.1875,
+["classId"] = 7,
+},
+["Kazôu"] = {
+["total"] = 188799523,
+["itemLevel"] = 606.375,
+["classId"] = 7,
+},
+["Yunádh-Thrall"] = {
+["total"] = 152491731,
+["itemLevel"] = 605.3125,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 75576711,
+["itemLevel"] = 610.125,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 249074967,
+["itemLevel"] = 608.75,
+["classId"] = 3,
+},
+["Justelectric"] = {
+["total"] = 231408002,
+["itemLevel"] = 609.4375,
+["classId"] = 7,
+},
+},
+},
+},
+[2918] = {
+{
+["guild"] = "Inithium",
+["time"] = 1726167033,
+["elapsed"] = 351.8790000000008,
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 217637491,
+["itemLevel"] = 597.8125,
+["classId"] = 3,
+},
+["Jeerad"] = {
+["total"] = 282733704,
+["itemLevel"] = 600.4375,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 101542908,
+["itemLevel"] = 597.375,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 284872933,
+["itemLevel"] = 601.25,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 152671203,
+["itemLevel"] = 601,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 287971615,
+["itemLevel"] = 598.875,
+["classId"] = 8,
+},
+["Kazôu"] = {
+["total"] = 232376838,
+["itemLevel"] = 592.1875,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 150465198,
+["itemLevel"] = 591.6,
+["classId"] = 2,
+},
+["Makína"] = {
+["total"] = 135983098,
+["itemLevel"] = 589.5,
+["classId"] = 12,
+},
+["Ábigail"] = {
+["total"] = 215412827,
+["itemLevel"] = 597.375,
+["classId"] = 5,
+},
+["Zz"] = {
+["total"] = 100282311,
+["itemLevel"] = 602.8125,
+["classId"] = 13,
+},
+["Eléssár"] = {
+["total"] = 266614737,
+["itemLevel"] = 596.625,
+["classId"] = 6,
+},
+["Manasturm"] = {
+["total"] = 223343509,
+["itemLevel"] = 593.125,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 256690062,
+["itemLevel"] = 595.375,
+["classId"] = 12,
+},
+["Bimbøw"] = {
+["total"] = 267462915,
+["itemLevel"] = 599.5625,
+["classId"] = 3,
+},
+["Wâffûls"] = {
+["total"] = 243565336,
+["itemLevel"] = 598.1875,
+["classId"] = 4,
+},
+["Raxezz"] = {
+["total"] = 346038692,
+["itemLevel"] = 597.25,
+["classId"] = 1,
+},
+["Baukimage"] = {
+["total"] = 182116432,
+["itemLevel"] = 591.125,
+["classId"] = 8,
+},
+["Gindry"] = {
+["total"] = 122606674,
+["itemLevel"] = 596.75,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 272071570,
+["itemLevel"] = 591.75,
+["classId"] = 7,
+},
+["Faîrfang"] = {
+["total"] = 164121625,
+["itemLevel"] = 604.9375,
+["classId"] = 6,
+},
+["Yunádh-Thrall"] = {
+["total"] = 277086612,
+["itemLevel"] = 599.25,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 101117459,
+["itemLevel"] = 599.2,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 349134964,
+["itemLevel"] = 599.875,
+["classId"] = 3,
+},
+["Krassarani"] = {
+["total"] = 315347563,
+["itemLevel"] = 600.625,
+["classId"] = 3,
+},
+},
+["servertime"] = 1726167029,
+["HEALER"] = {
+["Brranduin"] = {
+["total"] = 182310138,
+["itemLevel"] = 592.9375,
+["classId"] = 5,
+},
+["Cesalia"] = {
+["total"] = 243334360,
+["itemLevel"] = 593.5625,
+["classId"] = 2,
+},
+["Khono"] = {
+["total"] = 299118054,
+["itemLevel"] = 590.5,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 310240878,
+["itemLevel"] = 600.0625,
+["classId"] = 11,
+},
+["Alydris"] = {
+["total"] = 409102312,
+["itemLevel"] = 594.6875,
+["classId"] = 7,
+},
+},
+["date"] = "20:50 12/09/24",
+},
+{
+["date"] = "20:17 18/09/24",
+["guild"] = "Inithium",
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 213424426,
+["itemLevel"] = 609.25,
+["classId"] = 3,
+},
+["Jeerad"] = {
+["total"] = 204907054,
+["itemLevel"] = 609.875,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 76708960,
+["itemLevel"] = 607.625,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 227596662,
+["itemLevel"] = 607.6875,
+["classId"] = 6,
+},
+["Kehnaria"] = {
+["total"] = 206621563,
+["itemLevel"] = 605.3125,
+["classId"] = 8,
+},
+["Bimbøw"] = {
+["total"] = 169506196,
+["itemLevel"] = 608.4375,
+["classId"] = 3,
+},
+["Mornin"] = {
+["total"] = 127389625,
+["itemLevel"] = 604.875,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 247777083,
+["itemLevel"] = 607,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 174132191,
+["itemLevel"] = 607.3125,
+["classId"] = 5,
+},
+["Eléssár"] = {
+["total"] = 246613019,
+["itemLevel"] = 608.0625,
+["classId"] = 6,
+},
+["Baukî"] = {
+["total"] = 220422521,
+["itemLevel"] = 608.4375,
+["classId"] = 11,
+},
+["Justelectric"] = {
+["total"] = 238416307,
+["itemLevel"] = 609.4375,
+["classId"] = 7,
+},
+["Karthman"] = {
+["total"] = 189352112,
+["itemLevel"] = 605.1875,
+["classId"] = 9,
+},
+["Raxezz"] = {
+["total"] = 280133360,
+["itemLevel"] = 606.5625,
+["classId"] = 1,
+},
+["Balrigg"] = {
+["total"] = 87562663,
+["itemLevel"] = 610.125,
+["classId"] = 10,
+},
+["Kazôu"] = {
+["total"] = 178471771,
+["itemLevel"] = 606.375,
+["classId"] = 7,
+},
+["Manasturm"] = {
+["total"] = 181981921,
+["itemLevel"] = 605.25,
+["classId"] = 9,
+},
+["Gindry"] = {
+["total"] = 267176266,
+["itemLevel"] = 609,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 202110309,
+["itemLevel"] = 610.1875,
+["classId"] = 7,
+},
+["Faîrfang"] = {
+["total"] = 123117789,
+["itemLevel"] = 608.5625,
+["classId"] = 6,
+},
+["Yunádh-Thrall"] = {
+["total"] = 157228798,
+["itemLevel"] = 605.3125,
+["classId"] = 12,
+},
+["Wâffûls"] = {
+["total"] = 209832743,
+["itemLevel"] = 605.0625,
+["classId"] = 4,
+},
+["Falconkîng"] = {
+["total"] = 299842126,
+["itemLevel"] = 608.75,
+["classId"] = 3,
+},
+["Freddsen"] = {
+["total"] = 184496533,
+["itemLevel"] = 605.0625,
+["classId"] = 12,
+},
+},
+["elapsed"] = 262.8890000000029,
+["servertime"] = 1726683427,
+["HEALER"] = {
+["Alydris"] = {
+["total"] = 366590621,
+["itemLevel"] = 605.125,
+["classId"] = 7,
+},
+["Khono"] = {
+["total"] = 272189674,
+["itemLevel"] = 605.75,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 296926565,
+["itemLevel"] = 607.5333333333333,
+["classId"] = 11,
+},
+["Brranduin"] = {
+["total"] = 265620548,
+["itemLevel"] = 606.8125,
+["classId"] = 5,
+},
+},
+["time"] = 1726683427,
+},
+},
+[2898] = {
+{
+["guild"] = "Inithium",
+["time"] = 1726165925,
+["elapsed"] = 275.239999999998,
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 187822023,
+["itemLevel"] = 596.1875,
+["classId"] = 3,
+},
+["Brranduin"] = {
+["total"] = 66063554,
+["itemLevel"] = 592.9375,
+["classId"] = 5,
+},
+["Jeerad"] = {
+["total"] = 91318025,
+["itemLevel"] = 600.4375,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 72491168,
+["itemLevel"] = 597.375,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 178345023,
+["itemLevel"] = 600.375,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 209037972,
+["itemLevel"] = 601,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 107956621,
+["itemLevel"] = 598.875,
+["classId"] = 8,
+},
+["Kazôu"] = {
+["total"] = 198595106,
+["itemLevel"] = 592.1875,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 132318662,
+["itemLevel"] = 591.6,
+["classId"] = 2,
+},
+["Makína"] = {
+["total"] = 127933148,
+["itemLevel"] = 589.5,
+["classId"] = 12,
+},
+["Ábigail"] = {
+["total"] = 81935929,
+["itemLevel"] = 597.375,
+["classId"] = 5,
+},
+["Zz"] = {
+["total"] = 86603495,
+["itemLevel"] = 602.8125,
+["classId"] = 13,
+},
+["Eléssár"] = {
+["total"] = 172899117,
+["itemLevel"] = 596.625,
+["classId"] = 6,
+},
+["Manasturm"] = {
+["total"] = 206222041,
+["itemLevel"] = 593.125,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 148086174,
+["itemLevel"] = 595.375,
+["classId"] = 12,
+},
+["Bimbøw"] = {
+["total"] = 207147110,
+["itemLevel"] = 599.5625,
+["classId"] = 3,
+},
+["Wâffûls"] = {
+["total"] = 207723732,
+["itemLevel"] = 598.1875,
+["classId"] = 4,
+},
+["Raxezz"] = {
+["total"] = 73880157,
+["itemLevel"] = 597.25,
+["classId"] = 1,
+},
+["Baukimage"] = {
+["total"] = 71685428,
+["itemLevel"] = 591.125,
+["classId"] = 8,
+},
+["Gindry"] = {
+["total"] = 175541032,
+["itemLevel"] = 596.75,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 206330324,
+["itemLevel"] = 591.75,
+["classId"] = 7,
+},
+["Faîrfang"] = {
+["total"] = 102756461,
+["itemLevel"] = 604.9375,
+["classId"] = 6,
+},
+["Yunádh-Thrall"] = {
+["total"] = 158927384,
+["itemLevel"] = 599.25,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 64107766,
+["itemLevel"] = 596.75,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 284506027,
+["itemLevel"] = 599.875,
+["classId"] = 3,
+},
+["Krassarani"] = {
+["total"] = 282634858,
+["itemLevel"] = 600.625,
+["classId"] = 3,
+},
+},
+["servertime"] = 1726165921,
+["HEALER"] = {
+["Alydris"] = {
+["total"] = 274352858,
+["itemLevel"] = 594.6875,
+["classId"] = 7,
+},
+["Khono"] = {
+["total"] = 232339984,
+["itemLevel"] = 590.5,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 215243293,
+["itemLevel"] = 600.0625,
+["classId"] = 11,
+},
+["Cesalia"] = {
+["total"] = 198877447,
+["itemLevel"] = 593.5625,
+["classId"] = 2,
+},
+},
+["date"] = "20:32 12/09/24",
+},
+},
+[2920] = {
+{
+["date"] = "21:49 16/09/24",
+["guild"] = "Inithium",
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 122871285,
+["itemLevel"] = 604.9375,
+["classId"] = 7,
+},
+["Brranduin"] = {
+["total"] = 178613396,
+["itemLevel"] = 604.875,
+["classId"] = 5,
+},
+["Jeerad"] = {
+["total"] = 237430491,
+["itemLevel"] = 607.5625,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 105201271,
+["itemLevel"] = 607,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 230805605,
+["itemLevel"] = 605.4375,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 276959607,
+["itemLevel"] = 606.125,
+["classId"] = 4,
+},
+["Freddsen"] = {
+["total"] = 64186739,
+["itemLevel"] = 596.625,
+["classId"] = 12,
+},
+["Kazôu"] = {
+["total"] = 196557796,
+["itemLevel"] = 597.5625,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 90063329,
+["itemLevel"] = 0,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 359463163,
+["itemLevel"] = 606.125,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 170869453,
+["itemLevel"] = 606.25,
+["classId"] = 5,
+},
+["Eléssár"] = {
+["total"] = 295751651,
+["itemLevel"] = 604.0625,
+["classId"] = 6,
+},
+["Baukî"] = {
+["total"] = 219931776,
+["itemLevel"] = 600.375,
+["classId"] = 11,
+},
+["Makína"] = {
+["total"] = 128322750,
+["itemLevel"] = 595.1875,
+["classId"] = 12,
+},
+["Raxezz"] = {
+["total"] = 321245913,
+["itemLevel"] = 605.6875,
+["classId"] = 1,
+},
+["Balrigg"] = {
+["total"] = 92477127,
+["itemLevel"] = 608.8125,
+["classId"] = 10,
+},
+["Suravî"] = {
+["total"] = 251937306,
+["itemLevel"] = 597.375,
+["classId"] = 3,
+},
+["Gindry"] = {
+["total"] = 286739402,
+["itemLevel"] = 606.0625,
+["classId"] = 2,
+},
+["Faîrfang"] = {
+["total"] = 151203489,
+["itemLevel"] = 607.9375,
+["classId"] = 6,
+},
+["Sgtfeeder"] = {
+["total"] = 351022796,
+["itemLevel"] = 607.0625,
+["classId"] = 7,
+},
+["Yunádh-Thrall"] = {
+["total"] = 116836020,
+["itemLevel"] = 601.25,
+["classId"] = 12,
+},
+["Wâffûls"] = {
+["total"] = 279633606,
+["itemLevel"] = 602.0625,
+["classId"] = 4,
+},
+["Falconkîng"] = {
+["total"] = 372396538,
+["itemLevel"] = 608.125,
+["classId"] = 3,
+},
+["Bimbøw"] = {
+["total"] = 265553423,
+["itemLevel"] = 603.1875,
+["classId"] = 3,
+},
+},
+["elapsed"] = 386.9720000000016,
+["servertime"] = 1726516169,
+["HEALER"] = {
+["Alarïa"] = {
+["total"] = 398476929,
+["itemLevel"] = 607.25,
+["classId"] = 11,
+},
+["Khono"] = {
+["total"] = 285221395,
+["itemLevel"] = 596.0625,
+["classId"] = 5,
+},
+["Alydris"] = {
+["total"] = 462528464,
+["itemLevel"] = 605.75,
+["classId"] = 7,
+},
+["Cesalia"] = {
+["total"] = 350173287,
+["itemLevel"] = 601,
+["classId"] = 2,
+},
+},
+["time"] = 1726516173,
+},
+},
+[2921] = {
+{
+["time"] = 1727114558,
+["guild"] = "Inithium",
+["elapsed"] = 401.7560000000003,
+["date"] = "20:02 23/09/24",
+["servertime"] = 1727114556,
+["HEALER"] = {
+["Alydris"] = {
+["total"] = 387321330,
+["itemLevel"] = 610.25,
+["classId"] = 7,
+},
+["Khono"] = {
+["total"] = 417938331,
+["itemLevel"] = 613.1875,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 354460995,
+["itemLevel"] = 614.875,
+["classId"] = 11,
+},
+["Cesalia"] = {
+["total"] = 311143632,
+["itemLevel"] = 609.25,
+["classId"] = 2,
+},
+},
+["DAMAGER"] = {
+["Raxezz"] = {
+["total"] = 500317860,
+["itemLevel"] = 610.5,
+["classId"] = 1,
+},
+["Brranduin"] = {
+["total"] = 231462947,
+["itemLevel"] = 610.6875,
+["classId"] = 5,
+},
+["Jeerad"] = {
+["total"] = 349812970,
+["itemLevel"] = 611.625,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 163320915,
+["itemLevel"] = 611.3125,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 580366059,
+["itemLevel"] = 615.8125,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 419534358,
+["itemLevel"] = 609.875,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 451818400,
+["itemLevel"] = 613.375,
+["classId"] = 8,
+},
+["Bimbøw"] = {
+["total"] = 490272498,
+["itemLevel"] = 613.75,
+["classId"] = 3,
+},
+["Krassarani"] = {
+["total"] = 538962481,
+["itemLevel"] = 611.625,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 344818111,
+["itemLevel"] = 612.3125,
+["classId"] = 5,
+},
+["Eléssár"] = {
+["total"] = 419034069,
+["itemLevel"] = 612.375,
+["classId"] = 6,
+},
+["Baukî"] = {
+["total"] = 305985661,
+["itemLevel"] = 611.25,
+["classId"] = 11,
+},
+["Karthman"] = {
+["total"] = 435557419,
+["itemLevel"] = 609.375,
+["classId"] = 9,
+},
+["Manasturm"] = {
+["total"] = 415109182,
+["itemLevel"] = 611.5,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 366514147,
+["itemLevel"] = 610.1875,
+["classId"] = 12,
+},
+["Wâffûls"] = {
+["total"] = 443053162,
+["itemLevel"] = 609.8125,
+["classId"] = 4,
+},
+["Gindry"] = {
+["total"] = 459285823,
+["itemLevel"] = 611.4375,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 453041838,
+["itemLevel"] = 612.5625,
+["classId"] = 7,
+},
+["Faîrfang"] = {
+["total"] = 411188928,
+["itemLevel"] = 611.9375,
+["classId"] = 6,
+},
+["Yunádh-Thrall"] = {
+["total"] = 385661548,
+["itemLevel"] = 611.1875,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 225851588,
+["itemLevel"] = 613.0625,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 530052182,
+["itemLevel"] = 615.3125,
+["classId"] = 3,
+},
+["Kazôu"] = {
+["total"] = 304394668,
+["itemLevel"] = 606.8125,
+["classId"] = 7,
+},
+},
+},
+},
+[2902] = {
+{
+["guild"] = "Inithium",
+["time"] = 1726162687,
+["elapsed"] = 350.8379999999961,
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 203305568,
+["itemLevel"] = 596.1875,
+["classId"] = 3,
+},
+["Jeerad"] = {
+["total"] = 138616121,
+["itemLevel"] = 600.4375,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 55874236,
+["itemLevel"] = 597.375,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 220188054,
+["itemLevel"] = 600.375,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 228014124,
+["itemLevel"] = 601,
+["classId"] = 4,
+},
+["Kehnaria"] = {
+["total"] = 332024024,
+["itemLevel"] = 598.4,
+["classId"] = 8,
+},
+["Kazôu"] = {
+["total"] = 190122568,
+["itemLevel"] = 592.1875,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 137601414,
+["itemLevel"] = 589,
+["classId"] = 2,
+},
+["Makína"] = {
+["total"] = 203503494,
+["itemLevel"] = 589.5,
+["classId"] = 12,
+},
+["Ábigail"] = {
+["total"] = 214157843,
+["itemLevel"] = 597.375,
+["classId"] = 5,
+},
+["Zz"] = {
+["total"] = 111807685,
+["itemLevel"] = 602.8125,
+["classId"] = 13,
+},
+["Eléssár"] = {
+["total"] = 196433901,
+["itemLevel"] = 596.625,
+["classId"] = 6,
+},
+["Manasturm"] = {
+["total"] = 181663377,
+["itemLevel"] = 591.25,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 233132219,
+["itemLevel"] = 594.75,
+["classId"] = 12,
+},
+["Raxezz"] = {
+["total"] = 219359684,
+["itemLevel"] = 597.25,
+["classId"] = 1,
+},
+["Wâffûls"] = {
+["total"] = 179152828,
+["itemLevel"] = 598.1875,
+["classId"] = 4,
+},
+["Bimbøw"] = {
+["total"] = 214368819,
+["itemLevel"] = 599.5625,
+["classId"] = 3,
+},
+["Baukimage"] = {
+["total"] = 190771712,
+["itemLevel"] = 591.125,
+["classId"] = 8,
+},
+["Gindry"] = {
+["total"] = 190143774,
+["itemLevel"] = 596.75,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 148435554,
+["itemLevel"] = 591.75,
+["classId"] = 7,
+},
+["Faîrfang"] = {
+["total"] = 132997283,
+["itemLevel"] = 604.6875,
+["classId"] = 6,
+},
+["Yunádh-Thrall"] = {
+["total"] = 197929271,
+["itemLevel"] = 599.25,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 50055969,
+["itemLevel"] = 596.3125,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 308043191,
+["itemLevel"] = 599.875,
+["classId"] = 3,
+},
+["Krassarani"] = {
+["total"] = 305160933,
+["itemLevel"] = 600.6666666666666,
+["classId"] = 3,
+},
+},
+["servertime"] = 1726162683,
+["HEALER"] = {
+["Khono"] = {
+["total"] = 240762723,
+["itemLevel"] = 588.3333333333334,
+["classId"] = 5,
+},
+["Cesalia"] = {
+["total"] = 199386884,
+["itemLevel"] = 593.5625,
+["classId"] = 2,
+},
+["Brranduin"] = {
+["total"] = 208080842,
+["itemLevel"] = 592.0625,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 217183633,
+["itemLevel"] = 599.6666666666666,
+["classId"] = 11,
+},
+["Alydris"] = {
+["total"] = 271718654,
+["itemLevel"] = 593.9333333333333,
+["classId"] = 7,
+},
+},
+["date"] = "19:38 12/09/24",
+},
+{
+["time"] = 1726681187,
+["guild"] = "Inithium",
+["elapsed"] = 237.1320000000051,
+["date"] = "19:39 18/09/24",
+["servertime"] = 1726681187,
+["HEALER"] = {
+["Khono"] = {
+["total"] = 229868787,
+["itemLevel"] = 604.4375,
+["classId"] = 5,
+},
+["Alarïa"] = {
+["total"] = 214886393,
+["itemLevel"] = 607.25,
+["classId"] = 11,
+},
+["Alydris"] = {
+["total"] = 161224657,
+["itemLevel"] = 605.125,
+["classId"] = 7,
+},
+},
+["DAMAGER"] = {
+["Suravî"] = {
+["total"] = 177180819,
+["itemLevel"] = 609.25,
+["classId"] = 3,
+},
+["Jeerad"] = {
+["total"] = 171719994,
+["itemLevel"] = 609.4375,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 61475669,
+["itemLevel"] = 607.625,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 173937590,
+["itemLevel"] = 607.6875,
+["classId"] = 6,
+},
+["Kehnaria"] = {
+["total"] = 198121823,
+["itemLevel"] = 605.3125,
+["classId"] = 8,
+},
+["Bimbøw"] = {
+["total"] = 178677480,
+["itemLevel"] = 608.4375,
+["classId"] = 3,
+},
+["Mornin"] = {
+["total"] = 124325212,
+["itemLevel"] = 604.875,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 250164460,
+["itemLevel"] = 607,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 160955547,
+["itemLevel"] = 607.3125,
+["classId"] = 5,
+},
+["Eléssár"] = {
+["total"] = 187796062,
+["itemLevel"] = 608.0625,
+["classId"] = 6,
+},
+["Baukî"] = {
+["total"] = 187393329,
+["itemLevel"] = 607,
+["classId"] = 11,
+},
+["Karthman"] = {
+["total"] = 175865726,
+["itemLevel"] = 605.1875,
+["classId"] = 9,
+},
+["Freddsen"] = {
+["total"] = 145995124,
+["itemLevel"] = 605.0625,
+["classId"] = 12,
+},
+["Raxezz"] = {
+["total"] = 192782393,
+["itemLevel"] = 606.5625,
+["classId"] = 1,
+},
+["Wâffûls"] = {
+["total"] = 158067497,
+["itemLevel"] = 605.0625,
+["classId"] = 4,
+},
+["Faîrfang"] = {
+["total"] = 105566949,
+["itemLevel"] = 608.3125,
+["classId"] = 6,
+},
+["Gindry"] = {
+["total"] = 164106355,
+["itemLevel"] = 609,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 174014856,
+["itemLevel"] = 610.1875,
+["classId"] = 7,
+},
+["Kazôu"] = {
+["total"] = 187283057,
+["itemLevel"] = 606.375,
+["classId"] = 7,
+},
+["Yunádh-Thrall"] = {
+["total"] = 134725741,
+["itemLevel"] = 605.3125,
+["classId"] = 12,
+},
+["Balrigg"] = {
+["total"] = 63418903,
+["itemLevel"] = 610.125,
+["classId"] = 10,
+},
+["Falconkîng"] = {
+["total"] = 219519338,
+["itemLevel"] = 608.75,
+["classId"] = 3,
+},
+["Justelectric"] = {
+["total"] = 185759562,
+["itemLevel"] = 609.4375,
+["classId"] = 7,
+},
+},
+},
+},
+[2919] = {
+{
+["date"] = "20:40 16/09/24",
+["guild"] = "Inithium",
+["DAMAGER"] = {
+["Justelectric"] = {
+["total"] = 377324539,
+["itemLevel"] = 606.75,
+["classId"] = 7,
+},
+["Jeerad"] = {
+["total"] = 396405204,
+["itemLevel"] = 607.5625,
+["classId"] = 8,
+},
+["Onlywhoops"] = {
+["total"] = 143797096,
+["itemLevel"] = 607,
+["classId"] = 13,
+},
+["Twíxy"] = {
+["total"] = 557888801,
+["itemLevel"] = 605.4375,
+["classId"] = 6,
+},
+["Snøw-Vek'lor"] = {
+["total"] = 386134595,
+["itemLevel"] = 606.125,
+["classId"] = 4,
+},
+["Freddsen"] = {
+["total"] = 357423394,
+["itemLevel"] = 596.625,
+["classId"] = 12,
+},
+["Kazôu"] = {
+["total"] = 357894993,
+["itemLevel"] = 597.5625,
+["classId"] = 7,
+},
+["Mornin"] = {
+["total"] = 320498628,
+["itemLevel"] = 0,
+["classId"] = 2,
+},
+["Krassarani"] = {
+["total"] = 493144412,
+["itemLevel"] = 606.125,
+["classId"] = 3,
+},
+["Ábigail"] = {
+["total"] = 177759087,
+["itemLevel"] = 606.25,
+["classId"] = 5,
+},
+["Eléssár"] = {
+["total"] = 491972843,
+["itemLevel"] = 604.0625,
+["classId"] = 6,
+},
+["Baukî"] = {
+["total"] = 244731128,
+["itemLevel"] = 600.375,
+["classId"] = 11,
+},
+["Makína"] = {
+["total"] = 311220164,
+["itemLevel"] = 595.1875,
+["classId"] = 12,
+},
+["Bimbøw"] = {
+["total"] = 384780115,
+["itemLevel"] = 601.5625,
+["classId"] = 3,
+},
+["Balrigg"] = {
+["total"] = 122008337,
+["itemLevel"] = 608.8125,
+["classId"] = 10,
+},
+["Suravî"] = {
+["total"] = 256186552,
+["itemLevel"] = 597.375,
+["classId"] = 3,
+},
+["Faîrfang"] = {
+["total"] = 243083425,
+["itemLevel"] = 607.125,
+["classId"] = 6,
+},
+["Gindry"] = {
+["total"] = 372648343,
+["itemLevel"] = 606.0625,
+["classId"] = 2,
+},
+["Sgtfeeder"] = {
+["total"] = 470352770,
+["itemLevel"] = 607.0625,
+["classId"] = 7,
+},
+["Manasturm"] = {
+["total"] = 339393542,
+["itemLevel"] = 602.3125,
+["classId"] = 9,
+},
+["Yunádh-Thrall"] = {
+["total"] = 323891164,
+["itemLevel"] = 601.25,
+["classId"] = 12,
+},
+["Wâffûls"] = {
+["total"] = 435948133,
+["itemLevel"] = 602.0625,
+["classId"] = 4,
+},
+["Falconkîng"] = {
+["total"] = 516404305,
+["itemLevel"] = 606.9375,
+["classId"] = 3,
+},
+["Raxezz"] = {
+["total"] = 451953704,
+["itemLevel"] = 605.6875,
+["classId"] = 1,
+},
+},
+["elapsed"] = 408.5230000000001,
+["servertime"] = 1726512025,
+["HEALER"] = {
+["Khono"] = {
+["total"] = 368067582,
+["itemLevel"] = 596.0625,
+["classId"] = 5,
+},
+["Cesalia"] = {
+["total"] = 368278676,
+["itemLevel"] = 601,
+["classId"] = 2,
+},
+["Alydris"] = {
+["total"] = 514254513,
+["itemLevel"] = 605.125,
+["classId"] = 7,
+},
+["Alarïa"] = {
+["total"] = 452991885,
+["itemLevel"] = 607.25,
+["classId"] = 11,
+},
+["Brranduin"] = {
+["total"] = 394283078,
+["itemLevel"] = 603.25,
+["classId"] = 5,
+},
+},
+["time"] = 1726512029,
+},
+},
+},
+["mythic"] = {
+},
+["saved_encounters"] = {
+},
+["totalkills"] = {
+["normal"] = {
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid_when"] = 0,
+},
+[2898] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 11,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2922] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 8,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2919] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+},
+[2919] = {
+["normal"] = {
+["time_incombat"] = 497.2340000000012,
+["time_fasterkill"] = 212.0930000000008,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 568154.8236159495,
+["dps_best_when"] = 1726648108,
+["time_fasterkill_when"] = 1726648108,
+["dps_best_raid_when"] = 1726648108,
+["dps_best_raid"] = 8166543.124949875,
+},
+["heroic"] = {
+["time_incombat"] = 408.5230000000001,
+["time_fasterkill"] = 408.5230000000001,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 874916.2079170668,
+["dps_best_raid"] = 19161512.86463675,
+["time_fasterkill_when"] = 1726512029,
+["dps_best_raid_when"] = 1726512029,
+["dps_best_when"] = 1726512029,
+},
+},
+[2920] = {
+["normal"] = {
+["time_incombat"] = 449.5140000000001,
+["time_fasterkill"] = 185.1540000000005,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 542310.0932327724,
+["dps_best_when"] = 1726647325,
+["time_fasterkill_when"] = 1726647325,
+["dps_best_raid_when"] = 1726647325,
+["dps_best_raid"] = 7434310.87095065,
+},
+["heroic"] = {
+["time_incombat"] = 386.9720000000016,
+["time_fasterkill"] = 386.9720000000016,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 165869.2076006862,
+["dps_best_raid"] = 11977420.38183636,
+["time_fasterkill_when"] = 1726516173,
+["dps_best_raid_when"] = 1726516173,
+["dps_best_when"] = 1726516173,
+},
+},
+["heroic"] = {
+[2917] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 6,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2918] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2919] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 10,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2920] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 13,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_when"] = 0,
+},
+[2921] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 28,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2922] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 5,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_raid_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2902] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 1,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+[2898] = {
+["time_incombat"] = 0,
+["time_fasterkill"] = 0,
+["wipes"] = 3,
+["kills"] = 0,
+["dps_best"] = 0,
+["dps_best_raid_when"] = 0,
+["time_fasterkill_when"] = 0,
+["dps_best_when"] = 0,
+["dps_best_raid"] = 0,
+},
+},
+[2921] = {
+["normal"] = {
+["time_incombat"] = 743.6460000000006,
+["time_fasterkill"] = 287.4429999999993,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 739810.2128203835,
+["dps_best_raid"] = 16142334.53589063,
+["time_fasterkill_when"] = 1726083514,
+["dps_best_raid_when"] = 1726083514,
+["dps_best_when"] = 1726083514,
+},
+["heroic"] = {
+["time_incombat"] = 401.7560000000003,
+["time_fasterkill"] = 401.7560000000003,
+["wipes"] = 0,
+["kills"] = 1,
+["dps_best"] = 912280.4562997957,
+["dps_best_when"] = 1727114558,
+["time_fasterkill_when"] = 1727114558,
+["dps_best_raid_when"] = 1727114558,
+["dps_best_raid"] = 20688271.0401338,
+},
+},
+[2922] = {
+["normal"] = {
+["time_incombat"] = 722.0959999999941,
+["time_fasterkill"] = 324.9569999999949,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 530885.5971806723,
+["dps_best_raid"] = 10350780.45095214,
+["time_fasterkill_when"] = 1726085279,
+["dps_best_raid_when"] = 1726085279,
+["dps_best_when"] = 1726085279,
+},
+},
+[2902] = {
+["heroic"] = {
+["time_incombat"] = 846.3839999999982,
+["time_fasterkill"] = 237.1320000000051,
+["wipes"] = 0,
+["kills"] = 3,
+["dps_best"] = 664501.0489341964,
+["dps_best_raid_when"] = 1726681187,
+["time_fasterkill_when"] = 1726681187,
+["dps_best_when"] = 1726162687,
+["dps_best_raid"] = 14046455.63230576,
+},
+["normal"] = {
+["time_incombat"] = 481.9340000000003,
+["time_fasterkill"] = 212.0810000000001,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 436015.0980175072,
+["dps_best_when"] = 1726644840,
+["time_fasterkill_when"] = 1726644840,
+["dps_best_raid_when"] = 1726644840,
+["dps_best_raid"] = 5851938.367887737,
+},
+},
+[2898] = {
+["heroic"] = {
+["time_incombat"] = 518.9029999999984,
+["time_fasterkill"] = 243.6630000000005,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 538025.6285618955,
+["dps_best_raid_when"] = 1726165925,
+["time_fasterkill_when"] = 1726943368,
+["dps_best_when"] = 1726165925,
+["dps_best_raid"] = 12896386.11757022,
+},
+["normal"] = {
+["time_incombat"] = 380.1149999999998,
+["time_fasterkill"] = 153.4079999999995,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 572445.2701782979,
+["dps_best_when"] = 1726646195,
+["time_fasterkill_when"] = 1726646195,
+["dps_best_raid_when"] = 1726646195,
+["dps_best_raid"] = 8077634.106435156,
+},
+},
+[2918] = {
+["heroic"] = {
+["time_incombat"] = 890.8410000000076,
+["time_fasterkill"] = 262.8890000000029,
+["wipes"] = 0,
+["kills"] = 3,
+["dps_best"] = 729483.8907848874,
+["dps_best_raid_when"] = 1726683427,
+["time_fasterkill_when"] = 1726683427,
+["dps_best_when"] = 1726167033,
+["dps_best_raid"] = 16278235.14867474,
+},
+["normal"] = {
+["time_incombat"] = 373.2880000000005,
+["time_fasterkill"] = 161.9360000000006,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 627863.7857154222,
+["dps_best_when"] = 1726646738,
+["time_fasterkill_when"] = 1726646738,
+["dps_best_raid_when"] = 1726646738,
+["dps_best_raid"] = 8693416.621381255,
+},
+},
+[2917] = {
+["heroic"] = {
+["time_incombat"] = 824.5260000000053,
+["time_fasterkill"] = 261.5869999999995,
+["wipes"] = 0,
+["kills"] = 3,
+["dps_best"] = 728531.8116303575,
+["dps_best_raid_when"] = 1726164844,
+["time_fasterkill_when"] = 1726682000,
+["dps_best_when"] = 1726682000,
+["dps_best_raid"] = 14673039.25177257,
+},
+["normal"] = {
+["time_incombat"] = 450.8690000000001,
+["time_fasterkill"] = 188.5020000000004,
+["wipes"] = 0,
+["kills"] = 2,
+["dps_best"] = 578328.675570364,
+["dps_best_when"] = 1726645540,
+["time_fasterkill_when"] = 1726645540,
+["dps_best_raid_when"] = 1726645540,
+["dps_best_raid"] = 7160925.533946574,
+},
+},
+},
+}
